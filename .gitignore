@@ -1,0 +1,21 @@
+# Default ignored files
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+/target/
+/Reports/
+/test-output/
+/Logs/
+/Results/
+/.idea/
+/.classpath/
+/.project/
+/bin/
+/target/
+/test-output/
+*.html
+*.MF
+
